@@ -1,0 +1,4 @@
+project_id = "benchly"
+
+[functions.auth-diagnostics]
+verify_jwt = false
